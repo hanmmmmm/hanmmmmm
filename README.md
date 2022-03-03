@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [My 2D Navigation module with ROS](https://github.com/hanmmmmm/navigation_package_V1)
 
-- 💬 Ask me about **ROS, robotic algorithms, computer vision**
+- 💬 Ask me about **ROS, robotic algorithms, computer vision, C++ & Python**
 
 - 📫 My publications: 
   -  IEEE IROS 2021 [Image-Based Joint State Estimation Pipeline for Sensorless Manipulators](https://ieeexplore.ieee.org/document/9636439)
