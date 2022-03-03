@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **ROS, robotic algorithms, computer vision**
 
 - 📫 My publications: 
-  -  [Image-Based Joint State Estimation Pipeline for Sensorless Manipulators](https://ieeexplore.ieee.org/document/9636439)
-  -  [A Generative Model-Based Predictive Display for Robotic Teleoperation](https://ieeexplore.ieee.org/document/9561787)
+  -  IEEE IROS 2021 [Image-Based Joint State Estimation Pipeline for Sensorless Manipulators](https://ieeexplore.ieee.org/document/9636439)
+  -  IEEE ICRA 2021 [A Generative Model-Based Predictive Display for Robotic Teleoperation](https://ieeexplore.ieee.org/document/9561787)
 
 <!-- - ⚡ Fun fact **I think all animals are cute.** -->
 
