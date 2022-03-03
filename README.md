@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [My 2D Navigation module with ROS](https://github.com/hanmmmmm/navigation_package_V1)
 
-- 💬 Ask me about **ROS, robotic algorithms, C++**
+- 💬 Ask me about **ROS, robotic algorithms, computer vision**
 
-- ⚡ Fun fact **I think all animals are cute.**
+- 📫 My publications: 
+  -  [Image-Based Joint State Estimation Pipeline for Sensorless Manipulators](https://ieeexplore.ieee.org/document/9636439)
+  -  [A Generative Model-Based Predictive Display for Robotic Teleoperation](https://ieeexplore.ieee.org/document/9561787)
+
+<!-- - ⚡ Fun fact **I think all animals are cute.** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
