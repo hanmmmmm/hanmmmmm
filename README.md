@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jeff</h1>
 <h3 align="center">A passionate Robotics developer in Canada</h3>
 
-- 🔭 I’m currently working on [2D Navigation module](https://github.com/hanmmmmm/navigation_package_V1)
+- 🔭 I’m currently working on [My 2D Navigation module](https://github.com/hanmmmmm/navigation_package_V1)
 
 - 💬 Ask me about **ROS, robotic algorithms, C++**
 
